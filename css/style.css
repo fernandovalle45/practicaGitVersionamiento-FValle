@@ -1,0 +1,33 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Roboto;
+}
+
+body > * {
+    padding: 100px 250px;
+}
+
+.contenedor {
+    text-align: center;
+}
+
+.tituloEstudiante {
+    font-weight: bold;
+    color: red;
+    margin-bottom: 50px;
+}
+
+.version {
+    font-size: large;
+    font-style: italic;
+    color: blue;
+    margin: 20px;
+}
+
+.descripcion {
+    padding: 30px;
+    margin: 20px;
+    margin-top: 0px;
+    padding-top: 0px;
+}
