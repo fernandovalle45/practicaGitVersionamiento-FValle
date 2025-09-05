@@ -28,6 +28,6 @@ body > * {
 .descripcion {
     padding: 30px;
     margin: 20px;
-    margin-top: 0px;
-    padding-top: 0px;
+    margin-left: 0px;
+    padding-right: 0px;
 }
